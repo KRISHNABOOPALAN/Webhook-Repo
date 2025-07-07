@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # GitHub Activity Tracker (Developer Assessment Task)
 
 This project captures GitHub repository activities (`push`, `pull_request`, `merge`) using webhooks and stores them in MongoDB Atlas. A minimal frontend polls the backend every 15 seconds to display recent events.
@@ -95,3 +96,6 @@ Bootstrap 5 (UI)
 
 JavaScript (Polling)
 
+=======
+# Webhook-Repo
+>>>>>>> 91fb781bfbe2869b1f0081a7edcb556d6634f953
